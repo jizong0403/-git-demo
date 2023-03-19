@@ -1,4 +1,7 @@
 update
+<<<<<<< HEAD
 master text
+master text2
+>>>>>>> hot-fix
 hello lxs
 hello  lxs			 s as a aa awwq
